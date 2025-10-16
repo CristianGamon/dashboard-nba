@@ -19,8 +19,13 @@ El objetivo es facilitar la toma de decisiones en apuestas deportivas, especialm
 ![Dashboard](screenshots/dashboard_overview.png)
 ![Formulario](screenshots/form_userinput.png)
 
-## 🎬 Demo interactiva
-[![Demo NBA Dashboard](screenshots/dashboard_overview.png)]([https://www.loom.com/share/tu_enlace_o_youtube](https://www.loom.com/share/68209c54fa1942c286c37954fc3129f1?sid=4d08d18b-a92c-45ff-b19a-960b1668338f))
+## 🎥 Demo interactiva
+
+[![NBA Dashboard Demo](screenshots/dashboard_overview.png)](https://www.loom.com/share/68209c54fa1942c286c37954fc3129f1?sid=4d08d18b-a92c-45ff-b19a-960b1668338f)
+
+🔗 **Ver vídeo completo en Loom:**  
+[https://www.loom.com/share/68209c54fa1942c286c37954fc3129f1?sid=4d08d18b-a92c-45ff-b19a-960b1668338f](https://www.loom.com/share/68209c54fa1942c286c37954fc3129f1?sid=4d08d18b-a92c-45ff-b19a-960b1668338f)
+
 
 
 ## 📂 Estructura del proyecto
