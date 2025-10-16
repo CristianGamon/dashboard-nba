@@ -28,3 +28,17 @@ El objetivo fue transformar un archivo de Excel en una herramienta **dinámica y
 ## 🧩 Arquitectura del proyecto  
 **Project Architecture**
 
+NBA-Dashboard/
+│
+├── Dashboard_NBA.xlsm # Archivo principal con macros y dashboard
+├── vba/
+│ ├── Module1.bas # Código principal (DescargaResultados, VictoriaDerrota, etc.)
+│ ├── UserForm1.frm # Formulario de cuotas (registro y validación)
+│ ├── UserForm3.frm # Formulario de selección de fechas
+│
+├── screenshots/
+│ ├── dashboard_overview.png # Vista general del panel
+│ ├── form_userinput.png # Formulario interactivo
+│ └── demo.gif # (opcional) animación del proceso
+│
+└── README.md # Este archivo
